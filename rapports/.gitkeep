@@ -1,0 +1,4 @@
+#Ignore les dossiers vides
+echo "__pycache__/
+*.pyc
+.env" > .gitignore
