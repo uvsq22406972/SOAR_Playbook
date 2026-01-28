@@ -1,6 +1,6 @@
-# Rapport SOC: {'type_alerte': 'Suspicion de phishing', 'ip_source': '203.0.113.10', 'asset': 'mail-gw-01', 'user_cible': 'john.doe', 'timestamp': '2026-01-03T09:10:00Z', 'severite': 'high', 'ip_is_private': True, 'is_critical_asset': False, 'tags': ['source interne']}
+# Rapport SOC: Suspicion de phishing
 
-- **Généré**: 2026-01-28 23:07:31Z
+- **Généré**: 2026-01-28 23:19:58Z
 - **Timestamp (alerte)**: 2026-01-03T09:10:00Z
 - **Sévérité (initiale)**: high
 - **Score**: **25/100**

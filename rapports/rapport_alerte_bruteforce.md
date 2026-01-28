@@ -1,6 +1,6 @@
-# Rapport SOC: {'type_alerte': 'Bruteforce SSH', 'ip_source': '50.7.14.253', 'asset': 'srv-prod-01', 'user_cible': 'root', 'timestamp': '2026-01-20T16:48:00Z', 'severite': 'medium', 'ip_is_private': False, 'is_critical_asset': True, 'tags': ['cible critique', 'source externe']}
+# Rapport SOC: Bruteforce SSH
 
-- **Généré**: 2026-01-28 23:07:31Z
+- **Généré**: 2026-01-28 23:19:58Z
 - **Timestamp (alerte)**: 2026-01-20T16:48:00Z
 - **Sévérité (initiale)**: medium
 - **Score**: **90/100**

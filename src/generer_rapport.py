@@ -13,7 +13,7 @@ def genere_rapport_md(alerte, score, score_raisons, decision, actions, ia, path_
     out.parent.mkdir(parents=True, exist_ok=True)
 
     lignes = []
-    lignes.append(f"# Rapport SOC: {_md_escape(alerte)}")
+    lignes.append(f"# Rapport SOC: {_md_escape(alerte.get('type_alerte', ''))}")
     lignes.append("")
     lignes.append(f"- **Généré**: {now}")
     lignes.append(f"- **Timestamp (alerte)**: {_md_escape(alerte.get('timestamp', ''))}")
