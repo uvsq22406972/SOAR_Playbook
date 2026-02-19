@@ -17,7 +17,7 @@ def enrich_alerte(alerte):
         enriched["ip_is_private"] = ip_obj.is_private
     except ValueError:
         enriched["ip_is_private"] = False
-        enriched.setDefault("tags", [])
+        enriched.setdefault("tags", [])
         enriched["tags"].append("ip src invalide")
     
     #Vérifier si l'asset est critique
