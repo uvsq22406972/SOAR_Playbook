@@ -1,8 +1,0 @@
-{
-  "type_alerte": "Bruteforce SSH",
-  "ip_source": "50.7.14.253",
-  "asset": "srv-prod-01",
-  "user_cible": "root",
-  "timestamp": "2026-01-20T16:48:00Z",
-  "severite": "medium"
-}

@@ -1,8 +1,0 @@
-{
-  "type_alerte": "Suspicion de phishing",
-  "ip_source": "203.0.113.10",
-  "asset": "mail-gw-01",
-  "user_cible": "john.doe",
-  "timestamp": "2026-01-03T09:10:00Z",
-  "severite": "high"
-}
